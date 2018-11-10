@@ -1,0 +1,24 @@
+cara upload git hub menggunakan linux mint
+1. buat akun git hub
+2. new repositori
+3. berinama sesuai keinginan
+4. centang readmi
+5. klick create
+6. buka terminal (ctrl+alt+t)
+7. instal git scm (sudo apt-get install git-all)
+7. arahkan root ke folder project misal cd /opt/lampp/htdocs/namafolderproject
+8. tuliskan git init
+9. tuliskan git add *
+10. tuliskan git commit -m "upload namafolder"
+11. teliskan git remote add origin link repositori (misal:https://github.com/namauser/namarepository)
+12. tuliskan git remote -v
+13. tuliskan git push -u origin master -f
+14. masukkan username dan password
+15. selesai
+
+
+https://github.com/Dedy1354/spk_tni
+https://github.com/Dedy1354/Sistem_Pakar_Kulit_kucing
+https://github.com/Dedy1354/pakar_penyakit_balita
+https://github.com/Dedy1354/spk_ikm
+https://github.com/Dedy1354/gemasahabat
